@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Aniket-222000/KBC-Quiz-App.git/static/css/main.0f96a002.css",
+    "main.js": "/Aniket-222000/KBC-Quiz-App.git/static/js/main.17a5ae54.js",
+    "static/js/845.cce8ead2.chunk.js": "/Aniket-222000/KBC-Quiz-App.git/static/js/845.cce8ead2.chunk.js",
+    "static/media/play.mp3": "/Aniket-222000/KBC-Quiz-App.git/static/media/play.8e5f6d1d81d4e1414b95.mp3",
+    "static/media/correct.mp3": "/Aniket-222000/KBC-Quiz-App.git/static/media/correct.160572d72c858155072e.mp3",
+    "static/media/wrong.mp3": "/Aniket-222000/KBC-Quiz-App.git/static/media/wrong.e946821894ae9b0a0d6f.mp3",
+    "index.html": "/Aniket-222000/KBC-Quiz-App.git/index.html",
+    "main.0f96a002.css.map": "/Aniket-222000/KBC-Quiz-App.git/static/css/main.0f96a002.css.map",
+    "main.17a5ae54.js.map": "/Aniket-222000/KBC-Quiz-App.git/static/js/main.17a5ae54.js.map",
+    "845.cce8ead2.chunk.js.map": "/Aniket-222000/KBC-Quiz-App.git/static/js/845.cce8ead2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f96a002.css",
+    "static/js/main.17a5ae54.js"
+  ]
+}
